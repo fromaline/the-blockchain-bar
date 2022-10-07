@@ -1,0 +1,11 @@
+nick-3 // 3 shots of vodka
+nick+3; // technically purchasing from his own bar
+nick+700; // Reward for a week of work (7x100 per day)
+
+---
+
+nick-2000; // transfer to alina
+alina+2000; // pre-purchase with 100% bonus
+alina-1;
+nick+1;
+nick+100; // 1 day of sun coming up
